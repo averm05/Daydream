@@ -94,9 +94,9 @@ label wall_menu:
             jump poster2
          "Look at Poster Three":
             jump poster3
-         "Look at TV Screen":
+         "Look at the TV Screen":
             jump tvScreen
-         "Look at Safe":
+         "Look at the safe":
             jump safe
 
 
